@@ -1,0 +1,38 @@
+
+
+PASSI PER INIZIARE A LAVORARE CON GITHUB E GIT 
+==============================================
+
+1) registrazione nel sito github
+
+2) installazione di git
+
+3)  creazione di una cartella personale
+
+4)  posizionamento nella cartella personale
+
+5)  comando: git init
+
+6)  git config --global user.name "YOUR NAME"
+
+7)  git config --global user.email "YOUR EMAIL ADDRESS"
+
+8)  copiare dal sito il link della repository nella clipboard per essere fruibile succesivamente
+
+9)  git pull https://github.com/giuseppecurro/dadi.git 
+
+10) con un editore scrivere un file prova.txt con all'interno qualcosa e salvare
+
+11) comando: git add prova.txt
+
+11) comando: git commit -m "aggiunto il file"
+
+12) git push https://github.com/giuseppecurro/dadi.git
+
+13) la repository web github adesso contiene anche il nuovo file prova.txt
+
+
+
+
+
+

@@ -2,7 +2,7 @@ Se ti piacerebbe comprare un Pi e/o degli accessori, e stai cercando consigli, p
 
 You can find the latest quick start guide on the Raspberry Pi website. This start guide uses the NOOBS installation system: the latest version of this comes with the Raspbian OS as standard, but other OSes can be installed when you connect the PI to the internet via the ethernet port.
 
-You can the find official documentation for the Raspberry Pi on the Documentation page.
+Puoi trovare la documentazione ufficiale per il Raspberry nella pagina di documentazione.
 
 If you have trouble getting your PI to boot, or have difficulty getting any video output, you might find it helpful to read the boot problems sticky.
 

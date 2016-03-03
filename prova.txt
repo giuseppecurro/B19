@@ -1,3 +1,9 @@
-Siamo nella B19 alle 11:55.
-Ore 11:56, Catalano modifica il file.
-Buffo, edit Segullo.
+If you would like to buy a Pi and/or accessories, and are looking for advice on this, you might like to consult the pictorial buying guide
+
+You can find the latest quick start guide on the Raspberry Pi website. This start guide uses the NOOBS installation system: the latest version of this comes with the Raspbian OS as standard, but other OSes can be installed when you connect the PI to the internet via the ethernet port.
+
+You can the find official documentation for the Raspberry Pi on the Documentation page.
+
+If you have trouble getting your PI to boot, or have difficulty getting any video output, you might find it helpful to read the boot problems sticky.
+
+If you have you Pi set up and working, and want some ideas for what to do next, you could check out our Resources page.

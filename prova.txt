@@ -1,4 +1,4 @@
-If you would like to buy a Pi and/or accessories, and are looking for advice on this, you might like to consult the pictorial buying guide
+Se ti piacerebbe comprare un Pi e/o degli accessori, e stai cercando consigli, potresti consultare la guida d'acquisto tramite immagini.
 
 You can find the latest quick start guide on the Raspberry Pi website. This start guide uses the NOOBS installation system: the latest version of this comes with the Raspbian OS as standard, but other OSes can be installed when you connect the PI to the internet via the ethernet port.
 

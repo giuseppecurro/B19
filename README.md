@@ -1,34 +1,34 @@
 IV CINF B19
 =======
 
-#Repository B19
+##Repository B19
 
 Dedicata allo **sviluppo** e alla **progettazione** di software.
 
-#Argomenti trattati:
+##Argomenti trattati:
 
   * C++
   * Raspberry
   * Linux OS
   * Github
 
-#Membri partecipanti:
+##Membri partecipanti:
 
-Studenti:
+**Studenti:**
   * Bottaro		@?
-  * Buffo		@BuffoEu
-  * Caminiti	@AlCaminiti
-  * Cannizzaro	@CannizzaroCristian
-  * Catalano	@CatalanoSe
-  * Curcuruto	@GianlucaCu
-  * Gatto		@TrollVicko
-  * Grioli		@GabGr
+  * Buffo		[@BuffoEu](https://github.com/BuffoEu)
+  * Caminiti	[@AlCaminiti](https://github.com/AlCaminiti)
+  * Cannizzaro	[@CannizzaroCristian](https://github.com/CannizzaroCristian)
+  * Catalano	[@CatalanoSe](https://github.com/CatalanoSe)
+  * Curcuruto	[@GianlucaCu](https://github.com/GianlucaCu)
+  * Gatto		[@TrollVicko](https://github.com/TrollVicko)
+  * Grioli		[@GabGr](https://github.com/GabGr)
   * Gugliandolo	@?
-  * Merlino		@Gh0sterus
-  * Segullo		@DavideSegullo
+  * Merlino		[@Gh0sterus](https://github.com/Gh0sterus)
+  * Segullo		[@DavideSegullo](https://github.com/DavideSegullo)
 
-Prof:
-  * Currò		@Giuseppecurro
+**Prof:**
+  * Currò		[@Giuseppecurro](https://github.com/Giuseppecurro)
   * Terrizzi	@?
 
 Repository creata unicamente a scopo educativo.

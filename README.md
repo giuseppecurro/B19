@@ -13,6 +13,7 @@ Dedicata allo **sviluppo** e alla **progettazione** di software.
   * Github
 
 #Membri partecipanti:
+
 Studenti:
   * Bottaro
   * Buffo
@@ -25,9 +26,11 @@ Studenti:
   * Gugliandolo
   * Merlino
   * Segullo
-Prof:
+
+  Prof:
   * Currò
   * Terrizzi
 
 Repository creata unicamente a scopo educativo.
+
 Link alla [Repository](https://github.com/4CInformatica/B19/).

@@ -2,9 +2,8 @@ IV CINF B19
 =======
 
 #Repository B19
------------
- 
-Dedicato allo *sviluppo* e alla *progettazione* di software.
+
+Dedicata allo **sviluppo** e alla **progettazione** di software.
 
 #Argomenti trattati:
 
@@ -30,5 +29,5 @@ Prof:
   * Currò
   * Terrizzi
 
-
-[Repos](https://github.com/4CInformatica/B19/).
+Repository creata unicamente a scopo educativo.
+Link alla [Repository](https://github.com/4CInformatica/B19/).

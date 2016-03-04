@@ -15,21 +15,21 @@ Dedicata allo **sviluppo** e alla **progettazione** di software.
 #Membri partecipanti:
 
 Studenti:
-  * Bottaro
-  * Buffo
-  * Caminiti
-  * Cannizzaro
-  * Catalano
-  * Curcuruto
-  * Gatto
-  * Grioli
-  * Gugliandolo
-  * Merlino
-  * Segullo
+  * Bottaro		@?
+  * Buffo		@BuffoEu
+  * Caminiti	@AlCaminiti
+  * Cannizzaro	@CannizzaroCristian
+  * Catalano	@CatalanoSe
+  * Curcuruto	@GianlucaCu
+  * Gatto		@TrollVicko
+  * Grioli		@GabGr
+  * Gugliandolo	@?
+  * Merlino		@Gh0sterus
+  * Segullo		@DavideSegullo
 
-  Prof:
-  * Currò
-  * Terrizzi
+Prof:
+  * Currò		@Giuseppecurro
+  * Terrizzi	@?
 
 Repository creata unicamente a scopo educativo.
 

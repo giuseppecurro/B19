@@ -1,10 +1,10 @@
 IV CINF B19
 =======
 
-#Repository *B19*
+#Repository B19
 -----------
  
-#Dedicato allo *sviluppo* e alla *progettazione* di software.
+Dedicato allo *sviluppo* e alla *progettazione* di software.
 
 #Argomenti trattati:
 

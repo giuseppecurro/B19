@@ -1,23 +1,34 @@
-# B19
-Repository B19 4C Informatica
-BUFF0 3UGENI0 M4D3
-CATALANO WAS HERE.
-
 IV CINF B19
 =======
 
-Repository B19
+#Repository *B19*
 -----------
  
-Prof. Currò
- 
-Dedicato allo sviluppo e alla progettazione di software.
+#Dedicato allo *sviluppo* e alla *progettazione* di software.
 
-Argomenti trattati:
+#Argomenti trattati:
 
   * C++
   * Raspberry
   * Linux OS
   * Github
- 
-Link alla repository [link](https://github.com/4CInformatica/B19/).
+
+#Membri partecipanti:
+Studenti:
+  * Bottaro
+  * Buffo
+  * Caminiti
+  * Cannizzaro
+  * Catalano
+  * Curcuruto
+  * Gatto
+  * Grioli
+  * Gugliandolo
+  * Merlino
+  * Segullo
+Prof:
+  * Currò
+  * Terrizzi
+
+
+[Repos](https://github.com/4CInformatica/B19/).

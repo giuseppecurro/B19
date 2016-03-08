@@ -7,3 +7,4 @@ Puoi trovare la documentazione ufficiale per il Raspberry nella pagina di docume
 If you have trouble getting your PI to boot, or have difficulty getting any video output, you might find it helpful to read the boot problems sticky.
 
 Se hai un Pi settato e in funzione e vuoi qualche idea su cosa fare dopo, puoi consultare la nostra Resources page.
+integrazioni effettuate da curro giuseppe

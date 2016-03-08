@@ -24,7 +24,7 @@ Dedicata allo **sviluppo** e alla **progettazione** di software.
   * Gatto		[@TrollVicko](https://github.com/TrollVicko)
   * Grioli		[@GabGr](https://github.com/GabGr)
   * Gugliandolo	@?
-  * Merlino		[@Gh0sterus](https://github.com/Gh0sterus)
+  * Merlino		[@Gh0sTerus](https://github.com/Gh0sTerus)
   * Segullo		[@DavideSegullo](https://github.com/DavideSegullo)
 
 **Prof:**

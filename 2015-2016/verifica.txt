@@ -1,0 +1,9 @@
+verifica per la 4c informatica del 15/3/2016
+======================================
+Avendo come riferimento il seguente documento (4 pagine):
+http://www.tutorialspoint.com/git/pdf/git_basic_concepts.pdf
+Verranno proposte cinque domande.
+inoltre,
+Avendo come riferimento il seguente documento presente in google drive e chiamato GITHUB.txt:
+https://drive.google.com/open?id=0B6d7zjxeLmGNVm1UMG5FYXFwOG8
+Verranno proposte cinque domande.
